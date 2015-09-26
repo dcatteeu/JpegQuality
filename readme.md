@@ -6,7 +6,11 @@ See [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.4014) 
 
 ## Usage
 
+Run
+
     $ java JpegQuality <filename.jpg>
+    
+in the folder where `JpegQuality.class` resides.
 
 ## Dependencies
 
